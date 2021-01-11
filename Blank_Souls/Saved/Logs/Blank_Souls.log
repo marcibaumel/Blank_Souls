@@ -3258,3 +3258,56 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2021.01.11-10.58.56:364][825]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Base" FILE="../../../../../../../WORK/tutorials/Blank_Souls/Blank_Souls/Saved/Autosaves/Game/Blueprints/BP_Base_Auto5.uasset" SILENT=false AUTOSAVING=true
 [2021.01.11-10.58.56:385][825]LogSavePackage: Moving '../../../../../../../WORK/tutorials/Blank_Souls/Blank_Souls/Saved/BP_Base_Auto5B9760A1F40981C8D7876D0ADD560B93E.tmp' to '../../../../../../../WORK/tutorials/Blank_Souls/Blank_Souls/Saved/Autosaves/Game/Blueprints/BP_Base_Auto5.uasset'
 [2021.01.11-10.58.56:387][825]LogFileHelpers: Auto-saving content packages took 0.049
+[2021.01.11-12.59.36:076][776]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.01.11-12.59.40:367][788]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.01.11-12.59.40:385][788]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.11-12.59.40:386][788]PIE: New page: PIE session: ThirdPersonExampleMap (2021. jan. 11. 14:59:40)
+[2021.01.11-12.59.40:388][788]LogPlayLevel: Creating play world package: /Game/StarterStuff/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.01.11-12.59.40:431][788]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042930s)
+[2021.01.11-12.59.40:438][788]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.01.11-12.59.40:440][788]LogPlayLevel: PIE: World Init took: (0.009111s)
+[2021.01.11-12.59.40:441][788]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterStuff/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/StarterStuff/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.052981s)
+[2021.01.11-12.59.40:531][788]LogUObjectHash: Compacting FUObjectHashTables data took   8.23ms
+[2021.01.11-12.59.40:566][788]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.01.11-12.59.40:567][788]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.11-12.59.40:567][788]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.11-12.59.40:567][788]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.11-12.59.40:567][788]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.11-12.59.40:567][788]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.11-12.59.40:567][788]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.11-12.59.40:567][788]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.11-12.59.40:567][788]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.11-12.59.40:568][788]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.11-12.59.40:568][788]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.11-12.59.40:573][788]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.11-12.59.40:573][788]LogAudioMixer: Display: 1: FrontRight
+[2021.01.11-12.59.40:587][788]LogAudioMixer: Display: Using Audio Device Hangszórók (3 - High Definition Audio Device)
+[2021.01.11-12.59.40:592][788]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.11-12.59.40:593][788]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.11-12.59.40:593][788]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.11-12.59.40:595][788]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.11-12.59.40:595][788]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.11-12.59.40:595][788]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.11-12.59.40:606][788]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.11-12.59.40:606][788]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.11-12.59.40:606][788]LogInit: FAudioDevice initialized.
+[2021.01.11-12.59.40:606][788]LogAudio: Display: Audio Device (ID: 10) registered with world 'ThirdPersonExampleMap'.
+[2021.01.11-12.59.40:639][788]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.11-12.59.40:639][788]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.01.11-12.59.40:644][788]LogWorld: Bringing World /Game/StarterStuff/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.01.11-13.59.40
+[2021.01.11-12.59.40:645][788]LogWorld: Bringing up level for play took: 0.004788
+[2021.01.11-12.59.40:646][788]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2021.01.11-12.59.40:661][788]PIE: Server logged in
+[2021.01.11-12.59.40:663][788]PIE: Play in editor total start time 0,28 seconds.
+[2021.01.11-13.00.05:054][775]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.11-13.00.05:054][775]LogWorld: BeginTearingDown for /Game/StarterStuff/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.01.11-13.00.05:055][775]LogSlate: Window 'Blank_Souls Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.01.11-13.00.05:058][775]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.11-13.00.05:058][775]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.11-13.00.05:068][775]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.11-13.00.05:134][775]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.11-13.00.05:158][775]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.11-13.00.05:159][775]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.11-13.00.05:161][775]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.11-13.00.05:184][775]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2021.01.11-13.00.05:215][776]LogPlayLevel: Display: Destroying online subsystem :Context_36
