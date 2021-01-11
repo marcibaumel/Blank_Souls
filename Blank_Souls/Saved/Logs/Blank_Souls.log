@@ -3250,3 +3250,11 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2021.01.11-10.48.56:255][ 28]AssetCheck: New page: Asset Save: multiple assets
 [2021.01.11-10.48.56:255][ 28]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterStuff/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2021.01.11-10.48.56:256][ 28]LogContentValidation: Display: Validating World /Game/StarterStuff/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.01.11-10.58.56:336][825]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2021.01.11-10.58.56:338][825]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterStuff/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.045
+[2021.01.11-10.58.56:339][825]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Base] ([1] browsable assets)...
+[2021.01.11-10.58.56:364][825]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Base.BP_Base]
+[2021.01.11-10.58.56:364][825]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Base]
+[2021.01.11-10.58.56:364][825]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Base" FILE="../../../../../../../WORK/tutorials/Blank_Souls/Blank_Souls/Saved/Autosaves/Game/Blueprints/BP_Base_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2021.01.11-10.58.56:385][825]LogSavePackage: Moving '../../../../../../../WORK/tutorials/Blank_Souls/Blank_Souls/Saved/BP_Base_Auto5B9760A1F40981C8D7876D0ADD560B93E.tmp' to '../../../../../../../WORK/tutorials/Blank_Souls/Blank_Souls/Saved/Autosaves/Game/Blueprints/BP_Base_Auto5.uasset'
+[2021.01.11-10.58.56:387][825]LogFileHelpers: Auto-saving content packages took 0.049
