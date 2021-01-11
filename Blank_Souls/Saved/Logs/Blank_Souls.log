@@ -4869,3 +4869,74 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2021.01.11-15.48.59:429][716]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.01.11-15.48.59:450][716]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
 [2021.01.11-15.48.59:501][717]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2021.01.11-15.53.54:919][494]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2021.01.11-15.53.54:941][494]LogSavePackage: Moving '../../../../../../../WORK/tutorials/Blank_Souls/Blank_Souls/Saved/ThirdPersonExampleMap_Auto935DA18714759D6D7D9064AA11B988566.tmp' to '../../../../../../../WORK/tutorials/Blank_Souls/Blank_Souls/Saved/Autosaves/Game/StarterStuff/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto9.umap'
+[2021.01.11-15.53.54:943][494]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterStuff/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.077
+[2021.01.11-15.53.54:943][494]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.077
+[2021.01.11-15.53.54:943][494]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Base] ([1] browsable assets)...
+[2021.01.11-15.53.54:970][494]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Base.BP_Base]
+[2021.01.11-15.53.54:970][494]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Base]
+[2021.01.11-15.53.54:970][494]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Base" FILE="../../../../../../../WORK/tutorials/Blank_Souls/Blank_Souls/Saved/Autosaves/Game/Blueprints/BP_Base_Auto9.uasset" SILENT=false AUTOSAVING=true
+[2021.01.11-15.53.54:997][494]LogSavePackage: Moving '../../../../../../../WORK/tutorials/Blank_Souls/Blank_Souls/Saved/BP_Base_Auto9D03E5CC04C9E20A77AC090BC6CB4BCB7.tmp' to '../../../../../../../WORK/tutorials/Blank_Souls/Blank_Souls/Saved/Autosaves/Game/Blueprints/BP_Base_Auto9.uasset'
+[2021.01.11-15.53.54:998][494]LogFileHelpers: Auto-saving content packages took 0.056
+[2021.01.11-16.08.11:407][193]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{80f69a52-6576-44a7-85b5-8cea6364ad2c}.
+[2021.01.11-16.08.11:407][193]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.11-16.08.11:449][193]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.11-16.08.11:449][193]LogAudioMixer: Display: 1: FrontRight
+[2021.01.11-16.10.56:139][761]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.01.11-16.10.56:144][761]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.11-16.10.56:145][761]PIE: New page: PIE session: ThirdPersonExampleMap (2021. jan. 11. 18:10:56)
+[2021.01.11-16.10.56:145][761]LogPlayLevel: Creating play world package: /Game/StarterStuff/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.01.11-16.10.56:165][761]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020456s)
+[2021.01.11-16.10.56:168][761]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.01.11-16.10.56:168][761]LogPlayLevel: PIE: World Init took: (0.002712s)
+[2021.01.11-16.10.56:168][761]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterStuff/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/StarterStuff/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.023312s)
+[2021.01.11-16.10.56:204][761]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2021.01.11-16.10.56:208][761]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2021.01.11-16.10.56:208][761]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.11-16.10.56:208][761]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.11-16.10.56:208][761]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.11-16.10.56:208][761]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.11-16.10.56:208][761]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.11-16.10.56:208][761]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.11-16.10.56:208][761]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.11-16.10.56:208][761]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.11-16.10.56:208][761]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.11-16.10.56:208][761]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.11-16.10.56:213][761]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.11-16.10.56:213][761]LogAudioMixer: Display: 1: FrontRight
+[2021.01.11-16.10.56:225][761]LogAudioMixer: Display: Using Audio Device Hangszórók (3 - High Definition Audio Device)
+[2021.01.11-16.10.56:225][761]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.11-16.10.56:225][761]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.11-16.10.56:225][761]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.11-16.10.56:227][761]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.11-16.10.56:227][761]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.11-16.10.56:227][761]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.11-16.10.56:241][761]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.11-16.10.56:241][761]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.11-16.10.56:241][761]LogInit: FAudioDevice initialized.
+[2021.01.11-16.10.56:241][761]LogAudio: Display: Audio Device (ID: 33) registered with world 'ThirdPersonExampleMap'.
+[2021.01.11-16.10.56:291][761]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.11-16.10.56:291][761]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.01.11-16.10.56:293][761]LogWorld: Bringing World /Game/StarterStuff/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.01.11-17.10.56
+[2021.01.11-16.10.56:294][761]LogWorld: Bringing up level for play took: 0.001908
+[2021.01.11-16.10.56:294][761]LogOnline: OSS: Creating online subsystem instance for: :Context_62
+[2021.01.11-16.10.56:302][761]PIE: Server logged in
+[2021.01.11-16.10.56:304][761]PIE: Play in editor total start time 0,16 seconds.
+[2021.01.11-16.11.32:487][366]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.11-16.11.32:487][366]LogWorld: BeginTearingDown for /Game/StarterStuff/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.01.11-16.11.32:488][366]LogSlate: Window 'Blank_Souls Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.01.11-16.11.32:493][366]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.11-16.11.32:493][366]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.11-16.11.32:513][366]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.11-16.11.32:558][366]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.11-16.11.32:582][366]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.11-16.11.32:583][366]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.11-16.11.32:605][366]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2021.01.11-16.11.32:642][367]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2021.01.11-16.11.43:256][204]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2021.01.11-16.11.43:275][204]LogSavePackage: Moving '../../../../../../../WORK/tutorials/Blank_Souls/Blank_Souls/Saved/ThirdPersonExampleMapA5825455420C1424DE99BAB17679C1C7.tmp' to '../../../../../../../WORK/tutorials/Blank_Souls/Blank_Souls/Content/StarterStuff/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.01.11-16.11.43:378][204]LogSavePackage: Moving '../../../../../../../WORK/tutorials/Blank_Souls/Blank_Souls/Saved/ThirdPersonExampleMap_BuiltDataE497F82F4DFC134BFEE59E9127273CAD.tmp' to '../../../../../../../WORK/tutorials/Blank_Souls/Blank_Souls/Content/StarterStuff/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.01.11-16.11.43:392][204]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.11-16.11.43:392][204]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterStuff/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.01.11-16.11.43:392][204]LogContentValidation: Display: Validating World /Game/StarterStuff/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
